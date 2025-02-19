@@ -43,8 +43,7 @@ const byclass = document.getElementsByClassName('class-name');
 
 const h1Tag = document.getElementById('header');
 h1Tag.innerText = "JAVASCRIPT";
-console.log(h1Tag); // Output: <h1 id="header">Hello I have changed it from JAVASCRIPT</h1>
-
+console.log(h1Tag); 
 // Display None
 
 const h1Tag = document.getElementById('header');
