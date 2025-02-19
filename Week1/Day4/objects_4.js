@@ -61,8 +61,8 @@ const users = [
     }
   ];   
 
-  const userwithAge =users.some(functions(user))
-  { if(user.age<20)
+  const userwithAge =users.some(functions(users))
+  { if(users.age<20)
     return user
   }
 
